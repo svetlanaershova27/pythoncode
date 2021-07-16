@@ -28,4 +28,7 @@ finally:
     # закрываем браузер после всех манипуляций
     browser.quit()
     
+hello from rusau
+:w
+:q
 
